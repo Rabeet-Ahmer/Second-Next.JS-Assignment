@@ -13,3 +13,9 @@
 .main:hover{
     cursor: default;
 }
+
+.contacts{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
