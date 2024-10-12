@@ -10,8 +10,8 @@ const Footer = () => {
     <div className={style.main}>
         <p className={style2.text}>GIAIC 2024. All rights reserved.</p>
         <ul className={style3.links}>
-            <li><Link href="/services" target="_blank">Our Services</Link></li>
-            <li><Link href="/contact" target="_blank">Contact Us</Link></li>
+            <li><Link href="/services">Our Services</Link></li>
+            <li><Link href="/contact" >Contact Us</Link></li>
             <li><Link href="">Privacy Policy</Link></li>
         </ul>
         <div className={style4.media}>

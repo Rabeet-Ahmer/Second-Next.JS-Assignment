@@ -8,6 +8,8 @@
     font-family: "Zen Loop", cursive;
   font-weight: 400;
   font-style: italic;
+  margin:15rem 5rem 3rem 5rem;
+  padding: 2rem;
 }
 
 .main:hover{
@@ -18,4 +20,9 @@
     display: flex;
     justify-content: center;
     gap: 4rem;
+    font-size: 1.2rem;
+    margin-bottom: 20rem;
+}
+.contacts:hover{
+    cursor: default;
 }
