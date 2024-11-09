@@ -11,7 +11,7 @@ const ServicesPage = () => {
       <Header/>
       <Hero/>
       <div className={style.main}>
-        <h1>"Promising services coming soon!"</h1>
+        <h1>Promising services coming soon!</h1>
         </div>
         <Footer/>
       </>
