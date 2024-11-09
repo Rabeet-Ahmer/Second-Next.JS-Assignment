@@ -2,7 +2,6 @@ import React from 'react'
 import style from "./hero.module.css"
 import style2 from "./hero.module.css"
 import style3 from "./hero.module.css"
-import style4 from "./hero.module.css"
 
 const Hero = () => {
   return (
